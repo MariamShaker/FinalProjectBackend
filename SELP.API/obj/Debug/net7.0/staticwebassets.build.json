@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "LG4Uqt+dbRY6/2BCWUgX9Bwt3lOn9Z0vTMg9K1wePGw=",
+  "Source": "SELP.API",
+  "BasePath": "_content/SELP.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SELP.API\\wwwroot",
+      "Source": "SELP.API",
+      "ContentRoot": "D:\\E_Learning platform\\SELP.API\\wwwroot\\",
+      "BasePath": "_content/SELP.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\E_Learning platform\\SELP.API\\wwwroot\\Students\\0652772daac74bb8b8d49613e2ac97ab.png",
+      "SourceId": "SELP.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E_Learning platform\\SELP.API\\wwwroot\\",
+      "BasePath": "_content/SELP.API",
+      "RelativePath": "Students/0652772daac74bb8b8d49613e2ac97ab.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Students\\0652772daac74bb8b8d49613e2ac97ab.png"
+    },
+    {
+      "Identity": "D:\\E_Learning platform\\SELP.API\\wwwroot\\Students\\3b7c37cf58694dc7bd05adea6a9667de.png",
+      "SourceId": "SELP.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E_Learning platform\\SELP.API\\wwwroot\\",
+      "BasePath": "_content/SELP.API",
+      "RelativePath": "Students/3b7c37cf58694dc7bd05adea6a9667de.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Students\\3b7c37cf58694dc7bd05adea6a9667de.png"
+    }
+  ]
+}

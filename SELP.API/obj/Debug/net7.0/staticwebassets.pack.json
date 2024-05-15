@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\E_Learning platform\\SELP.API\\wwwroot\\Students\\0652772daac74bb8b8d49613e2ac97ab.png",
+      "PackagePath": "staticwebassets\\Students\\0652772daac74bb8b8d49613e2ac97ab.png"
+    },
+    {
+      "Id": "D:\\E_Learning platform\\SELP.API\\wwwroot\\Students\\3b7c37cf58694dc7bd05adea6a9667de.png",
+      "PackagePath": "staticwebassets\\Students\\3b7c37cf58694dc7bd05adea6a9667de.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SELP.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SELP.API.props",
+      "PackagePath": "build\\SELP.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SELP.API.props",
+      "PackagePath": "buildMultiTargeting\\SELP.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SELP.API.props",
+      "PackagePath": "buildTransitive\\SELP.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
